@@ -4,6 +4,7 @@ fn main() {
     println!("The sum of 2 and 3 is: {}", add(2, 3));
     println!("The sum of 5 and 7 is: {}", add(5, 7));
     println!("The sum of -1 and 1 is: {}", add(-1, 1));
+    println!("The sum of 0 and 0 is: {}", add(0, 0));
 }
 
 /**
